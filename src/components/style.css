@@ -1,0 +1,32 @@
+body {
+  text-align: center;
+}
+
+input,
+label {
+  font-family: "Yusei Magic", sans-serif;
+}
+.contact-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 300px;
+  border: 3px solid rgb(20, 157, 220);
+  margin: 10px auto;
+}
+.contact-info {
+  font-family: "Potta One", cursive;
+  font-weight: bold;
+  color: darkred;
+  margin: auto;
+}
+.phone-number {
+  font-size: 24px;
+  font-family: "Hanalei", cursive;
+  font-weight: 900;
+  color: rgb(25, 201, 2);
+}
+.gender-picture {
+  height: 50px;
+  margin: auto;
+}
