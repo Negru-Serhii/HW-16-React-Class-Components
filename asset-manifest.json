@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/HW-16-React-Class-Components/static/css/main.d11ab509.chunk.css",
+    "main.js": "/HW-16-React-Class-Components/static/js/main.0566aa82.chunk.js",
+    "main.js.map": "/HW-16-React-Class-Components/static/js/main.0566aa82.chunk.js.map",
+    "runtime-main.js": "/HW-16-React-Class-Components/static/js/runtime-main.f78743ff.js",
+    "runtime-main.js.map": "/HW-16-React-Class-Components/static/js/runtime-main.f78743ff.js.map",
+    "static/js/2.53af1f72.chunk.js": "/HW-16-React-Class-Components/static/js/2.53af1f72.chunk.js",
+    "static/js/2.53af1f72.chunk.js.map": "/HW-16-React-Class-Components/static/js/2.53af1f72.chunk.js.map",
+    "static/js/3.b339a877.chunk.js": "/HW-16-React-Class-Components/static/js/3.b339a877.chunk.js",
+    "static/js/3.b339a877.chunk.js.map": "/HW-16-React-Class-Components/static/js/3.b339a877.chunk.js.map",
+    "index.html": "/HW-16-React-Class-Components/index.html",
+    "static/css/main.d11ab509.chunk.css.map": "/HW-16-React-Class-Components/static/css/main.d11ab509.chunk.css.map",
+    "static/js/2.53af1f72.chunk.js.LICENSE.txt": "/HW-16-React-Class-Components/static/js/2.53af1f72.chunk.js.LICENSE.txt",
+    "static/media/hz.0f586eea.png": "/HW-16-React-Class-Components/static/media/hz.0f586eea.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f78743ff.js",
+    "static/js/2.53af1f72.chunk.js",
+    "static/css/main.d11ab509.chunk.css",
+    "static/js/main.0566aa82.chunk.js"
+  ]
+}
